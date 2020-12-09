@@ -1,0 +1,24 @@
+
+/** ADD YOUR AWESOME CODES HERE**/ 
+
+.price-table, .tab {
+    position:relative;
+    width:100%;
+    min-height:1px;
+    padding-right:10px;
+    padding-left:10px
+}
+
+
+.price-table {
+    -ms-flex:0 0 33.333333%;
+    flex:0 0 33.333333%;
+    max-width:33.333333%
+}
+
+
+.tab {
+    -ms-flex:0 0 50%;
+    flex:20%;
+    max-width:50%
+}
